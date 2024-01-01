@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OOP_WFA_Odev.Enums
+{
+    public enum Marka
+    {
+        FIAT, FORD, VOLKSWAGEN, RENAULT, BMW, HONDA
+    }
+}
